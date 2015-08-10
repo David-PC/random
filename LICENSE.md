@@ -1,0 +1,1 @@
+﻿Licencia de libre distribución para todos.
